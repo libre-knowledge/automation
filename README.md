@@ -14,7 +14,9 @@
 
 ## 參考資料
 
-（待補）
+* [Automation - Wikipedia](https://en.wikipedia.org/wiki/Automation)  
+  [自動化 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8A%A8%E5%8C%96)  
+  相關的維基百科條目
 
 ---
 
