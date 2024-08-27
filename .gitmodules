@@ -7,3 +7,7 @@
 #
 # Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "Ansible 自動化工具"]
+	path = Ansible 自動化工具
+	url = https://gitlab.com/libre-knowledge/ansible.git
+	ignore = dirty

@@ -7,7 +7,7 @@
 
 ## 解決方案
 
-* Ansible
+* [Ansible 自動化工具](https://gitlab.com/libre-knowledge/ansible)
 * Chef
 
 ## 參考資料
